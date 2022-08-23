@@ -1,0 +1,867 @@
+﻿SEXO;ORIENTACION SEXUAL;IDENTIDAD GENERO;EDAD AÑOS;APORTA;AUTOIDENTIDAD PACIENTE;TIPO DE BONO PACIENTE;GP 1;PREVENCION;MORBILIDAD;CONDICION DE DIAGNOSTICO;CODIGO CIE 10
+Mujer;Heterosexual;Femenino;41;No aporta;Mestizo/a;Desarrollo Humano;Embarazadas;710 Primera;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;69;Seguro ISSPOL;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;73;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;19;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;E669 OBESIDAD, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;14;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;7;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;32;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;14;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;47;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;NO APLICA
+Mujer;Heterosexual;Femenino;11;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;47;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;5;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;22;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;32;No aporta;Indígena;Desarrollo Humano;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;76;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;72;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Desarrollo Humano;Embarazadas;711 Subsecuente;0;0;Z123 EXAMEN DE PESQUISA ESPECIAL PARA TUMOR DE LA MAMA
+Mujer;Heterosexual;Femenino;14;No aporta;No aplica;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;63;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;91;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Femenino;56;No aporta;Mestizo/a;Desarrollo Humano;Persona con Discapacidad;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Desarrollo Humano;Embarazadas;710 Primera;0;0;Z123 EXAMEN DE PESQUISA ESPECIAL PARA TUMOR DE LA MAMA
+Hombre;No aplica;NO APLICA;5;No aporta;Blanco/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;27;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z391 ATENCION Y EXAMEN DE MADRE EN PERIODO DE LACTANCIA
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;70;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;46;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;22;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;69;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;63;No aporta;Mestizo/a;Joaquín Gallegos Lara;Persona con Discapacidad;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Masculino;76;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;6;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;29;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;15;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;N390 INFECCION DE VIAS URINARIAS, SITIO NO ESPECIFICADO
+Mujer;Heterosexual;Femenino;12;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;72;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;21;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;12;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;7;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;5;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;35;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;24;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;21;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;55;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;34;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;15;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z3004 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCIÓN. PRESCRIPCIÓN INICAL, ANTICONCEPTIVO ORAL DE EMERGENCIA.
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;29;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;54;No aporta;Indígena;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;39;No aporta;Mestizo/a;Desarrollo Humano;Embarazadas;711 Subsecuente;0;0;Z353 SUPERVISION DE EMBARAZO CON HISTORIA DE INSUFICIENTE ATENCION PRENATAL
+Hombre;Heterosexual;Masculino;65;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;61;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;3;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;12;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;78;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;48;No aporta;Indígena;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;20;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;50;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;M255 DOLOR EN ARTICULACION
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;42;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;76;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;83;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;M255 DOLOR EN ARTICULACION
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;65;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;0;Seguro Indirecto;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;85;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;46;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;14;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z003 EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE
+Hombre;Heterosexual;Masculino;48;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;65;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;17;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;9;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;15;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Hombre;Heterosexual;Masculino;11;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;45;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;K591 DIARREA FUNCIONAL
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;21;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;17;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;M255 DOLOR EN ARTICULACION
+Mujer;Heterosexual;Femenino;36;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;33;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;32;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;28;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;41;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Ninguno;Embarazadas;711 Subsecuente;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;No aplica;NO APLICA;3;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;26;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;21;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;12;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;13;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;10;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z003 EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;30;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;30;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;11;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;70;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;18;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;64;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;Z123 EXAMEN DE PESQUISA ESPECIAL PARA TUMOR DE LA MAMA
+Mujer;Heterosexual;Femenino;26;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Hombre;Heterosexual;Masculino;11;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Hombre;Heterosexual;Masculino;12;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;J039 AMIGDALITIS AGUDA, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;83;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;58;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;14;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;75;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;J039 AMIGDALITIS AGUDA, NO ESPECIFICADA
+Hombre;Heterosexual;Masculino;47;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;49;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Lesbiana;Femenino;33;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;78;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;J039 AMIGDALITIS AGUDA, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;48;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;No aplica;63;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;61;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;77;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;65;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;56;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;46;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;42;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;39;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;79;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;16;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;B009 INFECCION DEBIDA AL VIRUS DEL HERPES, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;45;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;26;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;90;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;6;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;46;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;710 Primera;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Hombre;Heterosexual;Masculino;30;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;80;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;80;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;64;No aporta;Mestizo/a;Desarrollo Humano;Persona con Discapacidad;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;12;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;84;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;49;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;14;No aporta;No aplica;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;11;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;44;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;63;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;NO APLICA;NO APLICA;27;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z3042 SUPERVISIÓN DEL USO DE DROGAS ANTICONCEPTIVAS. ANTICONCEPTIVOS ORALES SÓLO PROGESTERONA.
+Mujer;Heterosexual;Femenino;56;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;28;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;1;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;32;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z3043 SUPERVISIÓN DEL USO DE DROGAS ANTICONVEPTIVAS, ANTICONCEPTIVOS INYECTABLES.
+Mujer;Heterosexual;Femenino;72;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;26;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;73;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;46;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;NO APLICA
+Mujer;Heterosexual;Femenino;70;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;87;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;11;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;14;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;59;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z500 REHABILITACION CARDIACA
+Hombre;Heterosexual;Masculino;92;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;90;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;84;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;NO APLICA
+Mujer;Heterosexual;Femenino;72;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;60;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;B49X MICOSIS, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;40;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z3004 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCIÓN. PRESCRIPCIÓN INICAL, ANTICONCEPTIVO ORAL DE EMERGENCIA.
+Mujer;Heterosexual;Femenino;36;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;B49X MICOSIS, NO ESPECIFICADA
+Hombre;No aplica;NO APLICA;8;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;E669 OBESIDAD, NO ESPECIFICADA
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;53;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;73;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;64;No aporta;Mestizo/a;Desarrollo Humano;Persona con Discapacidad;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;18;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;27;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;Embarazadas;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;39;No aporta;Mestizo/a;Desarrollo Humano;Embarazadas;710 Primera;0;0;Z352 SUPERVISION DE EMBARAZO CON OTRO RIESGO EN LA HISTORIA OBSTETRICA O REPRODUCTIVA
+Mujer;Heterosexual;Femenino;51;No aporta;Indígena;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;73;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;M255 DOLOR EN ARTICULACION
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;11;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;22;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z3043 SUPERVISIÓN DEL USO DE DROGAS ANTICONVEPTIVAS, ANTICONCEPTIVOS INYECTABLES.
+Hombre;Heterosexual;Masculino;15;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z201 CONTACTO CON Y EXPOSICION A TUBERCULOSIS
+Mujer;Heterosexual;Femenino;43;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;Planificacion Familiar;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;43;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;Planificacion Familiar;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;53;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;64;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;61;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;K210 ENFERMEDAD DEL REFLUJO GASTROESOFAGICO CON ESOFAGITIS
+Mujer;Heterosexual;Femenino;77;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;51;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;50;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;75;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;53;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;73;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;M179 GONARTROSIS, NO ESPECIFICADA
+Hombre;Heterosexual;Masculino;72;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;46;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;I10X HIPERTENSION ESENCIAL (PRIMARIA)
+Mujer;Heterosexual;Femenino;18;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;84;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;66;No aporta;Indígena;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;72;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;18;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;59;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;32;No aporta;Indígena;Desarrollo Humano;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;48;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Femenino;73;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;16;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Desarrollo Humano;Embarazadas;711 Subsecuente;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;48;No aporta;Indígena;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;51;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;73;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;5;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;15;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;22;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;3;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Femenino;66;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;84;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;34;No aporta;Indígena;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;N390 INFECCION DE VIAS URINARIAS, SITIO NO ESPECIFICADO
+Hombre;Heterosexual;Masculino;79;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;83;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;35;No aporta;Indígena;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;3;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Hombre;Heterosexual;Femenino;67;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;26;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;50;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;86;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;74;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;49;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;39;No aporta;Mestizo/a;Joaquín Gallegos Lara;Persona con Discapacidad;0;710 Primera;226 Definitivo Control;NO APLICA
+Mujer;Heterosexual;Femenino;75;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;M139 ARTRITIS, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;74;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z500 REHABILITACION CARDIACA
+Hombre;NO APLICA;NO APLICA;12;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;No aplica;NO APLICA;2;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;48;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;49;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;47;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;I10X HIPERTENSION ESENCIAL (PRIMARIA)
+Mujer;Heterosexual;Femenino;45;No aporta;Mestizo/a;Ninguno;Persona con Discapacidad;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Ninguno;Embarazadas;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;13;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z003 EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;No aplica;NO APLICA;7;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;No aplica;70;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;No aplica;63;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;No aplica;40;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;No aplica;23;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;No aplica;48;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;48;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;66;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;12;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z003 EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE
+Hombre;No aplica;NO APLICA;3;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Hombre;No aplica;NO APLICA;3;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;R05X TOS
+Hombre;Heterosexual;Masculino;56;No aporta;Mestizo/a;Ninguno;Enfermedades Catastróficas y Raras;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;79;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;R53X MALESTAR Y FATIGA
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;39;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;NO APLICA
+Mujer;Heterosexual;Femenino;43;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;18;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;NO APLICA
+Hombre;Heterosexual;Masculino;66;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;53;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;36;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;54;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;77;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;R51X CEFALEA
+Mujer;Heterosexual;No aplica;40;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;223 Presuntivo;N761 VAGINITIS SUBAGUDA Y CRONICA
+Hombre;Gay;Masculino;39;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;65;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;39;No aporta;Mestizo/a;Ninguno;Persona con Discapacidad;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;18;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z309 ASISTENCIA PARA LA ANTICONCEPCION, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;36;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;28;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;87;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Q446 ENFERMEDAD QUISTICA DEL HIGADO
+Hombre;Heterosexual;Masculino;52;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;63;No aporta;Mestizo/a;Ninguno;Persona con Discapacidad;0;711 Subsecuente;226 Definitivo Control;H119 TRASTORNO DE LA CONJUNTIVA, NO ESPECIFICADO
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;53;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;N761 VAGINITIS SUBAGUDA Y CRONICA
+Mujer;Heterosexual;Femenino;61;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;47;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;30;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;83;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;39;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;62;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;70;Seguro ISSPOL;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;NO APLICA
+Hombre;Heterosexual;Masculino;39;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;76;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;R609 EDEMA, NO ESPECIFICADO
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;224 Definitivo Inicial;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;62;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;53;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;12;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;R51X CEFALEA
+Mujer;Heterosexual;Femenino;26;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;90;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;52;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;H119 TRASTORNO DE LA CONJUNTIVA, NO ESPECIFICADO
+Mujer;Heterosexual;Femenino;72;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;64;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;17;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z003 EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE
+Mujer;Heterosexual;Femenino;83;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;223 Presuntivo;Z717 CONSULTA PARA ASESORIA SOBRE EL VIRUS DE LA INMUNODEFICIENCIA HUMANA [VIH]
+Mujer;Heterosexual;Femenino;39;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;62;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;NO APLICA
+Mujer;Heterosexual;Femenino;15;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;70;Seguro ISSPOL;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;80;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;64;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;67;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;36;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;14;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;58;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;76;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;223 Presuntivo;R609 EDEMA, NO ESPECIFICADO
+Mujer;Heterosexual;Femenino;50;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;48;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;B49X MICOSIS, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;32;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;53;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;15;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;21;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;11;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;41;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No sabe/No responde;No sabe/No responde;60;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No sabe/No responde;No sabe/No responde;14;IESS, Afiliado seguro Campesino;No sabe/No responde;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;45;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;29;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;R75X EVIDENCIAS DE LABORATORIO DEL VIRUS DE LA INMUNODEFICIENCIA HUMANA [VIH]
+Hombre;Heterosexual;Masculino;47;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Hombre;Heterosexual;Masculino;14;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z003 EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;K591 DIARREA FUNCIONAL
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z002 EXAMEN DURANTE EL PERIODO DE CRECIMIENTO RAPIDO EN LA INFANCIA
+Mujer;Heterosexual;Femenino;60;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;56;No aporta;Mestizo/a;Joaquín Gallegos Lara;Persona con Discapacidad;0;711 Subsecuente;226 Definitivo Control;F301 MANIA SIN SINTOMAS PSICOTICOS
+Hombre;Heterosexual;Masculino;65;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;55;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;N760 VAGINITIS AGUDA
+Hombre;Heterosexual;Masculino;85;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;46;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;30;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;12;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;224 Definitivo Inicial;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;46;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Desarrollo Humano;Persona con Discapacidad;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;56;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;59;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;T784 ALERGIA NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;68;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;26;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;0;Seguro Indirecto;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;21;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;18;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Ninguno;Persona con Discapacidad;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;No aplica;NO APLICA;6;Seguro Indirecto;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z002 EXAMEN DURANTE EL PERIODO DE CRECIMIENTO RAPIDO EN LA INFANCIA
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;75;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;J410 BRONQUITIS CRONICA SIMPLE
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;224 Definitivo Inicial;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;15;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z003 EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE
+Mujer;Heterosexual;Femenino;93;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;R54X SENILIDAD
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Hombre;Heterosexual;Masculino;59;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;68;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;70;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;68;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;R54X SENILIDAD
+Mujer;Heterosexual;Femenino;44;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Mujer;Heterosexual;Femenino;36;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;44;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;11;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;42;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;6;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;J029 FARINGITIS AGUDA, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;32;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;86;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;58;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Ninguno;Embarazadas;0;710 Primera;223 Presuntivo;NO APLICA
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;44;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;29;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;E660 OBESIDAD DEBIDA A EXCESO DE CALORIAS
+Hombre;Heterosexual;Masculino;46;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;32;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;80;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;D508 OTRAS ANEMIAS POR DEFICIENCIA DE HIERRO
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;81;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;R101 DOLOR ABDOMINAL LOCALIZADO EN PARTE SUPERIOR
+Mujer;Heterosexual;Femenino;26;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;26;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;5;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;J029 FARINGITIS AGUDA, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;36;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z309 ASISTENCIA PARA LA ANTICONCEPCION, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;63;No aporta;Mestizo/a;Joaquín Gallegos Lara;Persona con Discapacidad;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;14;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;81;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;84;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;62;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;0;Seguro Indirecto;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;R104 OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS
+Hombre;Heterosexual;Masculino;14;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;39;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;Z353 SUPERVISION DE EMBARAZO CON HISTORIA DE INSUFICIENTE ATENCION PRENATAL
+Mujer;Heterosexual;Femenino;51;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;50;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;3;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;24;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;48;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;20;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;62;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z002 EXAMEN DURANTE EL PERIODO DE CRECIMIENTO RAPIDO EN LA INFANCIA
+Mujer;No aplica;NO APLICA;1;Seguro Indirecto;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;18;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;80;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;R51X CEFALEA
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;28;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;50;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;35;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;43;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;22;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;59;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;No aplica;40;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;J029 FARINGITIS AGUDA, NO ESPECIFICADA
+Mujer;No aplica;NO APLICA;2;No aporta;Montubio/a;Ninguno;No aplica;710 Primera;0;0;K591 DIARREA FUNCIONAL
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z391 ATENCION Y EXAMEN DE MADRE EN PERIODO DE LACTANCIA
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;73;IESS, Afiliado seguro General;Mestizo/a;Desarrollo Humano;Persona con Discapacidad;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Manuela Espejo;Persona con Discapacidad;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;32;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;32;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;19;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;19;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;K590 CONSTIPACION
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;66;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;J029 FARINGITIS AGUDA, NO ESPECIFICADA
+Hombre;Heterosexual;Masculino;31;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;18;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;6;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;15;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;78;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;62;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;22;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;56;No aporta;Mestizo/a;Desarrollo Humano;Persona con Discapacidad;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;36;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;13;No aporta;Montubio/a;Ninguno;No aplica;710 Primera;0;0;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Hombre;Heterosexual;Masculino;83;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;60;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;48;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;39;No aporta;Mestizo/a;Ninguno;Persona con Discapacidad;0;711 Subsecuente;226 Definitivo Control;NO APLICA
+Hombre;Heterosexual;Masculino;90;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;3;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;30;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;50;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;83;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;38;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;B369 MICOSIS SUPERFICIAL, SIN OTRA ESPECIFICACION
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;44;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;63;No aporta;Mestizo/a;Joaquín Gallegos Lara;Persona con Discapacidad;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;14;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;T784 ALERGIA NO ESPECIFICADA
+Hombre;Heterosexual;Masculino;67;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;14;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;20;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;58;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Masculino;66;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Bisexual;Femenino;25;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;79;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Hombre;No aplica;NO APLICA;3;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;56;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;55;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;29;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z391 ATENCION Y EXAMEN DE MADRE EN PERIODO DE LACTANCIA
+Mujer;Heterosexual;Femenino;71;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;H579 TRASTORNO DEL OJO Y SUS ANEXOS, NO ESPECIFICADO
+Hombre;Heterosexual;Masculino;27;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Ninguno;Persona con Discapacidad;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;58;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;I10X HIPERTENSION ESENCIAL (PRIMARIA)
+Mujer;Heterosexual;Femenino;32;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;73;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Femenino;53;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;28;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;74;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;44;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;R102 DOLOR PELVICO Y PERINEAL
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;78;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;59;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;K590 CONSTIPACION
+Hombre;Heterosexual;Masculino;38;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;R104 OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS
+Hombre;Heterosexual;No aplica;73;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;Embarazadas;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;32;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;J029 FARINGITIS AGUDA, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;67;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;58;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;58;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Ninguno;Embarazadas;711 Subsecuente;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;41;No aporta;Mestizo/a;Ninguno;Embarazadas;710 Primera;0;0;Z359 SUPERVISION DE EMBARAZO DE ALTO RIESGO, SIN OTRA ESPECIFICACION
+Mujer;Heterosexual;Femenino;13;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;6;Seguro Indirecto;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;78;No aporta;Mestizo/a;Ninguno;Persona con Discapacidad;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;65;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;84;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;5;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;24;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;56;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;14;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;61;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;B829 PARASITOSIS INTESTINAL, SIN OTRA ESPECIFICACION
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;R05X TOS
+Mujer;Heterosexual;Femenino;22;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;58;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;4;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;A09X DIARREA Y GASTROENTERITIS DE PRESUNTO ORIGEN INFECCIOSO
+Mujer;Heterosexual;Femenino;21;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;86;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;68;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;L088 OTRAS INFECCIONES LOCALES ESPECIFICADAS DE LA PIEL Y DEL TEJIDO SUBCUTANEO
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;28;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;No aplica;63;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;M255 DOLOR EN ARTICULACION
+Hombre;Heterosexual;Masculino;84;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;90;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;79;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;56;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;8;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;Persona con Discapacidad;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;71;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;78;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;61;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;64;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;64;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;66;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;225 Definitivo Inicial Confirmado por Laboratorio;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z003 EXAMEN DEL ESTADO DE DESARROLLO DEL ADOLESCENTE
+Mujer;Heterosexual;Femenino;65;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;No aplica;NO APLICA;7;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;37;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;6;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;57;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;21;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;47;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;68;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;B49X MICOSIS, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;E669 OBESIDAD, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;29;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;9;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;64;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;55;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;78;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;3;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;16;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;29;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;67;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;92;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;78;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;49;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;75;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;65;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;72;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;51;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;43;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;41;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;48;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;62;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;7;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;J029 FARINGITIS AGUDA, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;13;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;9;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;31;No aporta;Indígena;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;14;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;59;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;J039 AMIGDALITIS AGUDA, NO ESPECIFICADA
+Mujer;Heterosexual;Femenino;72;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;49;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;83;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;16;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;Embarazadas;0;710 Primera;224 Definitivo Inicial;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;44;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;58;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;52;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;67;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;83;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;26;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;30;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;34;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;17;No aporta;Mestizo/a;Ninguno;Embarazadas;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;29;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z391 ATENCION Y EXAMEN DE MADRE EN PERIODO DE LACTANCIA
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;79;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;H400 SOSPECHA DE GLAUCOMA
+Hombre;No aplica;NO APLICA;1;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;0;No aporta;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;21;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;85;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;63;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;60;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;17;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;64;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;224 Definitivo Inicial;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;13;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;10;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;59;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Femenino;28;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;39;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Hombre;Heterosexual;Masculino;15;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;45;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;48;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;38;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Desarrollo Humano;Embarazadas;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;55;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;K640 HEMORROIDES DE PRIMER GRADO
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;10;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;43;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z3043 SUPERVISIÓN DEL USO DE DROGAS ANTICONVEPTIVAS, ANTICONCEPTIVOS INYECTABLES.
+Mujer;Heterosexual;Femenino;13;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;44;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;32;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;87;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;86;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;48;No aporta;Indígena;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;61;No aporta;Mestizo/a;Manuela Espejo;Persona con Discapacidad;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Desarrollo Humano;No aplica;710 Primera;0;0;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Hombre;Heterosexual;Masculino;55;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;60;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;34;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;57;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;31;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Masculino;75;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;21;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;64;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;20;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;72;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;55;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;J209 BRONQUITIS AGUDA, NO ESPECIFICADA
+Hombre;Heterosexual;Masculino;56;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z701 CONSULTA RELACIONADA CON LA ORIENTACION Y CONDUCTA SEXUAL DEL PACIENTE
+Mujer;Heterosexual;Femenino;54;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;15;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;41;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;46;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;74;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;57;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;41;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;60;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;35;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;Z000 EXAMEN MEDICO GENERAL
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;19;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;711 Subsecuente;0;0;Z3043 SUPERVISIÓN DEL USO DE DROGAS ANTICONVEPTIVAS, ANTICONCEPTIVOS INYECTABLES.
+Hombre;Heterosexual;Femenino;66;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;76;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;65;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;Embarazadas;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;69;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;59;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;74;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;H010 BLEFARITIS
+Mujer;Heterosexual;Femenino;25;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;711 Subsecuente;0;0;B373 CANDIDIASIS DE LA VULVA Y DE LA VAGINA
+Mujer;Heterosexual;Femenino;53;No aporta;Mestizo/a;Ninguno;No aplica;710 Primera;0;0;R104 OTROS DOLORES ABDOMINALES Y LOS NO ESPECIFICADOS
+Hombre;Heterosexual;Masculino;76;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;6;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;32;No aporta;Mestizo/a;Ninguno;Planificacion Familiar;0;710 Primera;224 Definitivo Inicial;Z300 CONSEJO Y ASESORAMIENTO GENERAL SOBRE LA ANTICONCEPCION
+Mujer;Heterosexual;Femenino;27;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z500 REHABILITACION CARDIACA
+Hombre;No aplica;NO APLICA;2;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;1;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;224 Definitivo Inicial;Z001 CONTROL DE SALUD DE RUTINA DEL NIÑO
+Hombre;Heterosexual;Masculino;44;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;225 Definitivo Inicial Confirmado por Laboratorio;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;16;No aporta;Mestizo/a;Desarrollo Humano;Embarazadas;710 Primera;0;0;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;37;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;No aplica;NO APLICA;3;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;710 Primera;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;40;No aporta;Mestizo/a;Desarrollo Humano;Planificacion Familiar;711 Subsecuente;0;0;Z391 ATENCION Y EXAMEN DE MADRE EN PERIODO DE LACTANCIA
+Mujer;Heterosexual;Femenino;61;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;46;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;B001 DERMATITIS VESICULAR HERPETICA
+Hombre;Heterosexual;Masculino;58;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;33;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;J029 FARINGITIS AGUDA, NO ESPECIFICADA
+Mujer;No aplica;NO APLICA;4;No aporta;Mestizo/a;Desarrollo Humano;No aplica;711 Subsecuente;0;0;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;47;IESS, Afiliado seguro Campesino;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z000 EXAMEN MEDICO GENERAL
+Hombre;Heterosexual;Masculino;17;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;60;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;23;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;No aplica;NO APLICA;3;IESS, Afiliado seguro General;Mestizo/a;Ninguno;No aplica;711 Subsecuente;0;0;Z501 OTRAS TERAPIAS FISICAS
+Hombre;Heterosexual;Masculino;60;No aporta;Mestizo/a;Ninguno;No aplica;0;711 Subsecuente;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;69;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;0;711 Subsecuente;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;63;No aporta;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Mujer;Heterosexual;Femenino;70;IESS, Afiliado seguro Campesino;Mestizo/a;Desarrollo Humano;No aplica;0;710 Primera;223 Presuntivo;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
+Hombre;Heterosexual;Masculino;38;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;44;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;223 Presuntivo;Z501 OTRAS TERAPIAS FISICAS
+Mujer;Heterosexual;Femenino;41;No aporta;Mestizo/a;Ninguno;No aplica;0;710 Primera;226 Definitivo Control;Z713 CONSULTA PARA INSTRUCCION Y VIGILANCIA DE LA DIETA
