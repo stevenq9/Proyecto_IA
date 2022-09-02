@@ -1,4 +1,3 @@
-#paquetes para la interfaz
 import sys
 from interfaz2 import *
 from PyQt5.QtWidgets import *
@@ -61,7 +60,6 @@ class GUI(QtWidgets.QMainWindow):
         self.ui.nombretxt.setPlainText('')
         self.ui.edadtxt.setPlainText('')
         self.ui.Salida.setText('')
-
 
 
 

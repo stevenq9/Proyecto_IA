@@ -17,7 +17,7 @@
    <widget class="QPushButton" name="botonSalida">
     <property name="geometry">
      <rect>
-      <x>240</x>
+      <x>130</x>
       <y>310</y>
       <width>281</width>
       <height>41</height>
@@ -295,26 +295,6 @@
      <string>Morbilidad</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit">
-    <property name="geometry">
-     <rect>
-      <x>170</x>
-      <y>30</y>
-      <width>211</width>
-      <height>20</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QLineEdit" name="lineEdit_2">
-    <property name="geometry">
-     <rect>
-      <x>200</x>
-      <y>210</y>
-      <width>141</width>
-      <height>20</height>
-     </rect>
-    </property>
-   </widget>
    <widget class="QComboBox" name="sexoBox">
     <property name="geometry">
      <rect>
@@ -381,7 +361,7 @@
     </item>
     <item>
      <property name="text">
-      <string>no sabe</string>
+      <string>no sabe/no responde</string>
      </property>
     </item>
    </widget>
@@ -416,7 +396,7 @@
     </item>
     <item>
      <property name="text">
-      <string>no sabe</string>
+      <string>no sabe/no responde</string>
      </property>
     </item>
    </widget>
@@ -441,27 +421,17 @@
     </item>
     <item>
      <property name="text">
-      <string>Seguro Isspo</string>
+      <string>Seguro Isspol</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>IESS</string>
+      <string>IESS, Afiliado Seguro Campesino</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>Afiliado Seguro Campesino</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>Seguro Campesino</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>Afiliado Seguro General</string>
+      <string>IESS, Afiliado Seguro General</string>
      </property>
     </item>
     <item>
@@ -551,7 +521,7 @@
     </item>
     <item>
      <property name="text">
-      <string>226 definitivo control</string>
+      <string>223 presuntivo</string>
      </property>
     </item>
     <item>
@@ -561,11 +531,16 @@
     </item>
     <item>
      <property name="text">
-      <string>223 presuntivo</string>
+      <string>225 definitivo inicial confirmado por laboratorio</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>226 definitivo control</string>
      </property>
     </item>
    </widget>
-   <widget class="QComboBox" name="sexoBox_5">
+   <widget class="QComboBox" name="autoBox">
     <property name="geometry">
      <rect>
       <x>210</x>
@@ -586,7 +561,12 @@
     </item>
     <item>
      <property name="text">
-      <string>indigena</string>
+      <string>indígena</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>montubio/a</string>
      </property>
     </item>
     <item>
@@ -626,7 +606,7 @@
     </item>
     <item>
      <property name="text">
-      <string>Joaquin Gallegos Lara</string>
+      <string>Joaquín Gallegos Lara</string>
      </property>
     </item>
     <item>
@@ -671,7 +651,7 @@
     </item>
     <item>
      <property name="text">
-      <string>Enfermedades Catastroficas y raras</string>
+      <string>Enfermedades Catastróficas y raras</string>
      </property>
     </item>
     <item>
@@ -679,6 +659,45 @@
       <string>no aplica</string>
      </property>
     </item>
+   </widget>
+   <widget class="QTextEdit" name="nombretxt">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>20</y>
+      <width>171</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="edadtxt">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>200</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="botonLimpiar">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>310</y>
+      <width>281</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Tw Cen MT Condensed Extra Bold</family>
+      <pointsize>18</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Limpiar </string>
+    </property>
    </widget>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
