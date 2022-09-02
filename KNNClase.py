@@ -19,8 +19,8 @@ class modeloPacientes():
     #funcion donde se creara la data
     def entrenar(self):
         cwd = os.getcwd()
-        pacientes =  pd.read_csv(f'{cwd}/Proyecto_IA/dataFinal.csv', sep=';', header=None)
-        pacientesOriginales =  pd.read_csv(f'{cwd}/Proyecto_IA/dataFinal.csv', sep=';', header=None)
+        pacientes =  pd.read_csv(f'{cwd}/dataFinal.csv', sep=';', header=None)
+        pacientesOriginales =  pd.read_csv(f'{cwd}/dataFinal.csv', sep=';', header=None)
         pacientes.columns = ['SEXO','ORIENTACION SEXUAL','IDENTIDAD GENERO','EDAD AÑOS','APORTA','AUTOIDENTIDAD PACIENTE','TIPO DE BONO PACIENTE','GP 1','PREVENCION','MORBILIDAD','CONDICION DE DIAGNOSTICO','CODIGO CIE 10']
         pacientesOriginales.columns = ['SEXO','ORIENTACION SEXUAL','IDENTIDAD GENERO','EDAD AÑOS','APORTA','AUTOIDENTIDAD PACIENTE','TIPO DE BONO PACIENTE','GP 1','PREVENCION','MORBILIDAD','CONDICION DE DIAGNOSTICO','CODIGO CIE 10']
         pacientes = pacientes.iloc[1:,:]

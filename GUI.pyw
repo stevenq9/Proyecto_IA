@@ -3,12 +3,19 @@ import sys
 from interfaz2 import *
 from PyQt5.QtWidgets import *
 from tkinter import messagebox
+#nuestro modelo
+from KNNClase import modeloPacientes
+
 
 class GUI(QtWidgets.QMainWindow):
     def __init__(self, parent=None):
         super(GUI, self).__init__(parent = parent)
         self.ui = Ui_MainWindow()
         self.ui.setupUi(self)
+        #creamos una instancia de nuestro modelo y lo entrenamos
+        self.modelo = modeloPacientes()
+        self.modelo.entrenar()
+
         self.ui.botonSalida.clicked.connect(self.verificaRespuestas)
         self.ui.botonLimpiar.clicked.connect(self.limpiar)
         self.ui.botonSalida.clicked.connect(self.verificaRespuestas)
@@ -33,6 +40,8 @@ class GUI(QtWidgets.QMainWindow):
         elif(self.ui.sexoBox.currentIndex() == 1 and
         self.ui.gpBox.currentIndex() == 1):
             messagebox.showerror(message="¿Encerio?, un hombre embarazado :/", title='!!!!!!! AVISO !!!!!!!')
+        elif(self.ui.edadtxt.toPlainText().isdigit() == False):
+            messagebox.showerror(message="Revise que la edad sea un numero", title='!!!!!!! AVISO !!!!!!!')
         else:
             data.append(self.ui.sexoBox.currentText())
             data.append(self.ui.orientacionBox.currentText())
@@ -45,7 +54,7 @@ class GUI(QtWidgets.QMainWindow):
             data.append(self.ui.prevencionBox.currentText())
             data.append(self.ui.morbilidadBox.currentText())
             data.append(self.ui.condicionBox.currentText())
-            self.ui.Salida.setText(data.__str__())
+            self.ui.Salida.setText(f'El paciente {self.ui.nombretxt.toPlainText().upper()} tiene caracteristicas que permiten colocarle el Codigo CIE 10 : {self.modelo.predecir(data)}')
 
     def limpiar(self):
         self.ui.sexoBox.setCurrentIndex(0)

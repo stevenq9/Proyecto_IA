@@ -303,7 +303,7 @@ class Ui_MainWindow(object):
         self.bonoBox.setItemText(2, _translate("MainWindow", "Joaquín Gallegos Lara"))
         self.bonoBox.setItemText(3, _translate("MainWindow", "Manuela Espejo"))
         self.bonoBox.setItemText(4, _translate("MainWindow", "ninguno"))
-        self.gpBox.setItemText(1, _translate("MainWindow", "Embarazada"))
+        self.gpBox.setItemText(1, _translate("MainWindow", "Embarazadas"))
         self.gpBox.setItemText(2, _translate("MainWindow", "Planificacion Familiar"))
         self.gpBox.setItemText(3, _translate("MainWindow", "Persona con discapacidad"))
         self.gpBox.setItemText(4, _translate("MainWindow", "Enfermedades Catastróficas y raras"))
