@@ -491,7 +491,7 @@
     </item>
     <item>
      <property name="text">
-      <string>710 Morbilidad</string>
+      <string>710 Primera</string>
      </property>
     </item>
     <item>
@@ -581,7 +581,7 @@
     </item>
     <item>
      <property name="text">
-      <string>no sabe</string>
+      <string>no sabe/no responde</string>
      </property>
     </item>
    </widget>
