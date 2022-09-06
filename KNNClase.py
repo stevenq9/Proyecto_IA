@@ -1,13 +1,9 @@
-from pathlib import Path
 import pandas as pd
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
 from sklearn.neighbors import NearestNeighbors, KNeighborsClassifier
-import matplotlib.pylab as plt
 import seaborn as sns 
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import accuracy_score
 import os
 
 class modeloPacientes():
@@ -19,8 +15,8 @@ class modeloPacientes():
     #funcion donde se creara la data
     def entrenar(self):
         cwd = os.getcwd()
-        pacientes =  pd.read_csv(f'{cwd}/dataFinal.csv', sep=';', header=None)
-        pacientesOriginales =  pd.read_csv(f'{cwd}/dataFinal.csv', sep=';', header=None)
+        pacientes =  pd.read_csv(f'{cwd}\\dataFinal.csv', sep=';', header=None)
+        pacientesOriginales =  pd.read_csv(f'{cwd}\\dataFinal.csv', sep=';', header=None)
         pacientes.columns = ['SEXO','ORIENTACION SEXUAL','IDENTIDAD GENERO','EDAD AÑOS','APORTA','AUTOIDENTIDAD PACIENTE','TIPO DE BONO PACIENTE','GP 1','PREVENCION','MORBILIDAD','CONDICION DE DIAGNOSTICO','CODIGO CIE 10']
         pacientesOriginales.columns = ['SEXO','ORIENTACION SEXUAL','IDENTIDAD GENERO','EDAD AÑOS','APORTA','AUTOIDENTIDAD PACIENTE','TIPO DE BONO PACIENTE','GP 1','PREVENCION','MORBILIDAD','CONDICION DE DIAGNOSTICO','CODIGO CIE 10']
         pacientes = pacientes.iloc[1:,:]
